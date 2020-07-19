@@ -9,5 +9,3 @@ Recursion is basically when a function calls it self until the exit condition is
 In the code you can find two uses of recursion, the Fibonacci Sequence and a clean QuickSort.
 
 ***Obs.: Python3 is necessary due to one line `for array` (lines 16, 35 & 37) and `f` text formating (lines 41, 43 & 44)***
-
-test push
